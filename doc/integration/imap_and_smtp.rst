@@ -388,7 +388,7 @@ Inside :file:`conf.d/15-lda.conf`, activate the ``sieve`` plugin like this::
   }
 
 Finally, configure the ``sieve`` plugin by editing the
-:file:`conf.d/90-sieve.conf` file. Put the follwing caontent inside::
+:file:`conf.d/90-sieve.conf` file. Put the following content inside::
 
   plugin {
     # Location of the active script. When ManageSieve is used this is actually
